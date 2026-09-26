@@ -1,0 +1,7 @@
+
+# Mengabaikan folder virtual environment python
+ffc_project/
+
+# Mengabaikan file cache Python (opsional tapi sangat disarankan)
+__pycache__/
+*.pyc
