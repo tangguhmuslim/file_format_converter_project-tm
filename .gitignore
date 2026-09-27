@@ -1,13 +1,6 @@
 
-<<<<<<< HEAD
+
 file_format_converter-venv/
 __pycache__/
 .evn
-=======
-# Mengabaikan folder virtual environment python
-ffc_project/
 
-# Mengabaikan file cache Python (opsional tapi sangat disarankan)
-__pycache__/
-*.pyc
->>>>>>> 4c156f4e4423088bb08aba61883fd359ccb3a8ca
